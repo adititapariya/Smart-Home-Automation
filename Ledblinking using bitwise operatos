@@ -2,7 +2,7 @@
  * OprblinkLED.c
  *
  * Created: 30-06-2022 18:32:15
- * Author : harsh
+ * Author : aditi
  */ 
 
 #include <avr/io.h>
